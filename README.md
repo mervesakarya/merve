@@ -1,2 +1,2 @@
 # merve
-for learn
+karabük üniversitesi bilgisayar mühendisliği
